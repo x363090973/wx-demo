@@ -1,0 +1,5 @@
+<!--pages/demo2/demo2.wxml-->
+<text>pages/demo2/demo2.wxml</text>
+<navigator url='/pages/demo1/demo1'>
+  跳转
+</navigator>
